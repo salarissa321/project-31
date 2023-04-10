@@ -1,0 +1,129 @@
+
+
+
+body{
+
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Albert Sans", sans-serif;
+}
+
+.mycontainer{
+
+
+}
+
+.mynav{
+
+
+}
+
+.navbar-brand{
+
+font-size: 25px;
+font-weight: 700;
+}
+
+.mylink{
+color: black;
+ margin: 20px;   
+}
+
+.mybtn1{
+    font-size: 18px;
+font-weight: 500;
+color: black;
+line-height: 18px;
+display: inline-block;
+cursor: pointer;
+text-decoration: none;
+box-sizing: border-box;
+margin-right: 20px;
+}
+
+.mybtn2{
+    border: 1px solid black;
+padding: 15px 24px;
+border-radius: 6px;
+font-size: 18px;
+font-weight: 500;
+color: black;
+line-height: 18px;
+display: inline-block;
+cursor: pointer;
+text-decoration: none;
+box-sizing: border-box;
+}
+
+.mybtn2:hover{
+    background-color: #F7B731;
+}
+
+.mytitel{
+    font-size: 56px;
+    line-height: 56px;
+    font-family: "Albert Sans", sans-serif;
+font-weight: 700;
+    padding-bottom: 16px;
+    text-transform: inherit;
+    margin-top: 0;
+}
+
+.mysubtitel{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    line-height: 32px;
+    padding-right: 40px;
+    padding-bottom: 24px;
+  
+}
+
+.mybutton1{
+    background: #F7B731;
+    padding: 20px 30px;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 500;
+    border-radius: 6px;
+    color: black;
+    border: 1px solid #F7B731;
+    display: inline-block;
+cursor: pointer;
+text-decoration: none;
+box-sizing: border-box;
+
+}
+
+.mybutton2{
+    background: transparent;
+    border-color: black;
+    padding: 20px 30px;
+font-size: 20px;
+line-height: 20px;
+font-weight: 500;
+border-radius: 6px;
+color: black;
+border: 1px solid #F7B731;
+display: inline-block;
+cursor: pointer;
+text-decoration: none;
+box-sizing: border-box;
+margin-left: 20px;
+}
+
+.mydiv{
+
+}
+
+.myfoto{
+max-width: 100%;
+}
+.myspan{
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.myimg{
+    max-width: 120%;
+}
